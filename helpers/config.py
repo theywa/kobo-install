@@ -452,7 +452,7 @@ class Config:
             "internal_domain_name": "docker.internal",
             "private_domain_name": "kobo.private",
             "public_domain_name": "kobo.local",
-            "kpi_subdomain": "kf",
+            "kpi_subdomain": "cust2",
             "kc_subdomain": "kc",
             "ee_subdomain": "ee",
             "postgres_db": "kobotoolbox",
